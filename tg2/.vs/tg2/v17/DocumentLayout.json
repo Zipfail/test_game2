@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\test_game2\\tg2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80CC4099-CF6A-5599-DB36-2CFD7BA371C0}|Assembly-CSharp.csproj|c:\\users\\skond\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\test_game2\\tg2\\assets\\work\\skript\\pl_move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80CC4099-CF6A-5599-DB36-2CFD7BA371C0}|Assembly-CSharp.csproj|solutionrelative:assets\\work\\skript\\pl_move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{80CC4099-CF6A-5599-DB36-2CFD7BA371C0}|Assembly-CSharp.csproj|c:\\users\\skond\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\test_game2\\tg2\\assets\\work\\skript\\vrag\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CC4099-CF6A-5599-DB36-2CFD7BA371C0}|Assembly-CSharp.csproj|solutionrelative:assets\\work\\skript\\vrag\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CC4099-CF6A-5599-DB36-2CFD7BA371C0}|Assembly-CSharp.csproj|c:\\users\\skond\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\test_game2\\tg2\\assets\\work\\skript\\tex\\pc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CC4099-CF6A-5599-DB36-2CFD7BA371C0}|Assembly-CSharp.csproj|solutionrelative:assets\\work\\skript\\tex\\pc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CC4099-CF6A-5599-DB36-2CFD7BA371C0}|Assembly-CSharp.csproj|C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\test_game2\\tg2\\assets\\work\\skript\\player\\pl_player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CC4099-CF6A-5599-DB36-2CFD7BA371C0}|Assembly-CSharp.csproj|solutionrelative:assets\\work\\skript\\player\\pl_player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CC4099-CF6A-5599-DB36-2CFD7BA371C0}|Assembly-CSharp.csproj|C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\test_game2\\tg2\\assets\\work\\skript\\player\\pl_move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80CC4099-CF6A-5599-DB36-2CFD7BA371C0}|Assembly-CSharp.csproj|solutionrelative:assets\\work\\skript\\player\\pl_move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,15 +35,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "pl_move.cs",
-              "DocumentMoniker": "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\test_game2\\tg2\\Assets\\work\\skript\\pl_move.cs",
-              "RelativeDocumentMoniker": "Assets\\work\\skript\\pl_move.cs",
-              "ToolTip": "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\test_game2\\tg2\\Assets\\work\\skript\\pl_move.cs",
-              "RelativeToolTip": "Assets\\work\\skript\\pl_move.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAwwD8AAAA3AAAAAAAAAA==",
+              "Title": "NPC.cs",
+              "DocumentMoniker": "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\test_game2\\tg2\\Assets\\work\\skript\\vrag\\NPC.cs",
+              "RelativeDocumentMoniker": "Assets\\work\\skript\\vrag\\NPC.cs",
+              "ToolTip": "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\test_game2\\tg2\\Assets\\work\\skript\\vrag\\NPC.cs",
+              "RelativeToolTip": "Assets\\work\\skript\\vrag\\NPC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T13:45:16.538Z",
+              "WhenOpened": "2025-09-25T18:02:22.572Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PC.cs",
+              "DocumentMoniker": "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\test_game2\\tg2\\Assets\\work\\skript\\tex\\PC.cs",
+              "RelativeDocumentMoniker": "Assets\\work\\skript\\tex\\PC.cs",
+              "ToolTip": "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\test_game2\\tg2\\Assets\\work\\skript\\tex\\PC.cs",
+              "RelativeToolTip": "Assets\\work\\skript\\tex\\PC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T18:01:33.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pl_player.cs",
+              "DocumentMoniker": "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\test_game2\\tg2\\Assets\\work\\skript\\player\\pl_player.cs",
+              "RelativeDocumentMoniker": "Assets\\work\\skript\\player\\pl_player.cs",
+              "ToolTip": "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\test_game2\\tg2\\Assets\\work\\skript\\player\\pl_player.cs",
+              "RelativeToolTip": "Assets\\work\\skript\\player\\pl_player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T18:00:28.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "pl_move.cs",
+              "DocumentMoniker": "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\test_game2\\tg2\\Assets\\work\\skript\\player\\pl_move.cs",
+              "RelativeDocumentMoniker": "Assets\\work\\skript\\player\\pl_move.cs",
+              "ToolTip": "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\test_game2\\tg2\\Assets\\work\\skript\\player\\pl_move.cs",
+              "RelativeToolTip": "Assets\\work\\skript\\player\\pl_move.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T18:00:24.846Z"
             }
           ]
         }

@@ -422,7 +422,10 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.29f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.29f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
 "Assets/TutorialInfo/Scripts/Readme.cs"
-"Assets/work/skript/pl_move.cs"
+"Assets/work/skript/player/pl_move.cs"
+"Assets/work/skript/player/pl_player.cs"
+"Assets/work/skript/tex/PC.cs"
+"Assets/work/skript/vrag/NPC.cs"
 -langversion:9.0
 /deterministic
 /optimize+
