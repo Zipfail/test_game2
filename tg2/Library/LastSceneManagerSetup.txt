@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/work/Scene/test_scody.unity
+- path: Assets/work/Scene/test_mex.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
